@@ -15,8 +15,8 @@ This repository contains a Python-based tool to generate and format multiple-cho
 
 ## ⚙️ Requirements
 
-- Python 3.7+
-- Install dependency:
+- Python 3.7 or higher  
+- Install dependencies:
 
 ```bash
-pip install python-docx
+pip install python-docx streamlit
