@@ -1,0 +1,30 @@
+@question A rectangular garden has a perimeter of 50 meters. If the length of the garden is 15 meters, what is the width of the garden in meters?
+@instruction Calculate the width of the rectangular garden.
+@difficulty easy
+@Order 1
+
+@option [A] 10 meters
+@@option Correct Answer [B] 10 meters
+@option [C] 25 meters
+@option [D] 5 meters
+@explanation The perimeter of a rectangle is given by the formula $P = 2l + 2w$, where $P$ is the perimeter, $l$ is the length, and $w$ is the width.  We are given that $P = 50$ meters and $l = 15$ meters. Substituting these values into the formula, we get $50 = 2(15) + 2w$.  Simplifying, we have $50 = 30 + 2w$. Subtracting 30 from both sides gives $20 = 2w$. Dividing both sides by 2, we find that $w = 10$ meters.
+@subject Mathematics
+@unit Geometry
+@topic Perimeter and Area
+@plusmarks 1
+
+
+@question A baker uses 250 grams of flour to make 5 identical loaves of bread.  How many grams of flour are needed to make 1 loaf of bread?
+@instruction Determine the amount of flour needed for one loaf.
+@difficulty easy
+@Order 2
+
+@option [A] 50 grams
+@@option Correct Answer [B] 50 grams
+@option [C] 1250 grams
+@option [D] 245 grams
+@explanation To find the amount of flour needed for one loaf, divide the total amount of flour used by the number of loaves made: 250 grams / 5 loaves = 50 grams/loaf.
+@subject Mathematics
+@unit Ratio and Proportion
+@topic Unit Rate
+@plusmarks 1

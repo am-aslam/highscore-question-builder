@@ -1,0 +1,38 @@
+@title Algebra & Geometry Mini Assessment
+@description A mini assessment containing two AI-generated math multiple-choice questions similar in style to the base questions. Each question preserves LaTeX where appropriate and follows the requested output format.
+
+@question If $10x - 5 = 5x + 15$, what is the value of x?
+@instruction Solve for x and choose the correct answer.
+@difficulty easy
+@Order 1
+
+@option \( \frac{2}{3} \)
+@option \( \frac{3}{2} \)
+@@option Correct Answer
+@option 4
+@option 5
+
+@explanation Subtract 5x from both sides: 5x - 5 = 15 -> 5x = 20 -> x = 4.
+@subject Quantitative Math
+@unit Algebra
+@topic Interpreting Variables
+
+@plusmarks 1
+
+
+@question A right triangle has legs of length 6 and 8. What is the measure of the hypotenuse?
+@instruction Select the exact length.
+@difficulty easy
+@Order 2
+
+@option 10
+@@option Correct Answer
+@option 12
+@option 14
+
+@explanation Use Pythagorean theorem: hypotenuse = sqrt(6^2 + 8^2) = sqrt(100) = 10.
+@subject Quantitative Math
+@unit Geometry and Measurement
+@topic Right Triangles & Trigonometry
+
+@plusmarks 1
